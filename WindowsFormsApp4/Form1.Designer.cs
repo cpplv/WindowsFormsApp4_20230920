@@ -137,7 +137,7 @@
             this.radioButton1.Size = new System.Drawing.Size(53, 17);
             this.radioButton1.TabIndex = 10;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Radio";
+            this.radioButton1.Text = "RadioPoga";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // Form1
